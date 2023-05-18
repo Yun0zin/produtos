@@ -1,0 +1,12 @@
+.row{
+    display: flex;
+    margin: 32px;
+    padding: 32px;
+}
+
+  .container{
+    border: solid 1px black;
+    width: 200px;
+    margin: 32px;
+    padding: 32px;
+  }
